@@ -1,4 +1,4 @@
-# Idempotent Webhook Processor — Backend Engineer Assessment
+# Idempotent Webhook Processor 
 
 A zero-dependency, standard-library-only Node.js implementation of an idempotent, order-independent payments webhook processor that parses and processes the fixture stream in [`webhook_events.md`](./webhook_events.md).
 

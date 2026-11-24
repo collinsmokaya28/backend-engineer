@@ -11,5 +11,5 @@
     "start": "node processor.mjs",
     "test": "node --test tests/*.test.mjs"
   },
-  "author": "Collins Mokaya <collincemokaya@gmail.com>"
+  "author": "Collins Mokaya <collincemokaya12@gmail.com>"
 }
